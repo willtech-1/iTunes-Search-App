@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`spanshot testing snapshot test for app component 1`] = `
+<div>
+  <div>
+    <div>
+      <div
+        className="container"
+      >
+        <div>
+          <input
+            className="search-input"
+            name="name"
+            onChange={[Function]}
+            placeholder="Search..."
+            type="text"
+          />
+          <a
+            href="/search"
+            onClick={[Function]}
+          >
+            <button
+              className="search-btn"
+              onClick={[Function]}
+              type="submit"
+            >
+              Search
+            </button>
+          </a>
+          <a
+            className="fav-link"
+            href="/favourites"
+          >
+            Favourites
+          </a>
+        </div>
+      </div>
+      <div />
+    </div>
+  </div>
+</div>
+`;
