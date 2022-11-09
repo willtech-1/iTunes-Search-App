@@ -10,5 +10,10 @@ The backend of the application handles the third-party API.
 
 ### Project installation
 1. Open your terminal (Ctrl+`)
-2. Then change your directory to the backend folder by typing 
+2. Then change your directory to the backend folder 
+```bash
+cd backend
+```
+3. To check whether you are at the right directory type ls on your terminal and you will get list of your files in that directory
+4. Type 
 
