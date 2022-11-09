@@ -18,7 +18,7 @@ The backend of the application handles the third-party API.
 cd backend
 ```
 3. To check whether you are at the right directory type ls on your terminal and you will get list of your files in that directory
-4. Then type npm install on your terminal to install node_modules and all the dev dependencies for the backend of the project
+4. Then type npm install on your terminal to install node_modules for all the dev dependencies for the backend of the project
 ```bash
 npm install
 ```
@@ -28,13 +28,13 @@ npm start
 ```
 
 **Frontend**
-1. Navigate to your terminal or (Ctrl+`)
+1. Navigate to your terminal or (Ctrl+shitft+`)
 2. Then change your directory to the backend folder cd backend and then change it to the frontend folder cd frontend or drag and drop frontend folder on the terminal
 ```bash
 cd backend/frontend
 ```
 3. To check whether you are at the right directory type ls on your terminal and you will get list of your files in that directory
-4. Then type npm install on your terminal to install node_modules and all the dev dependencies for the frontend of the project
+4. Then type npm install on your terminal to install node_modules for all the dev dependencies for the frontend of the project
 ```bash
 npm install
 ```
