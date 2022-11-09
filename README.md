@@ -1,5 +1,5 @@
   # iTunes Search App  
-  ### Project Link https://mighty-coast-92790.herokuapp.com/
+  Project Link https://mighty-coast-92790.herokuapp.com/
  <div>
   <img src="https://www.seekpng.com/png/detail/158-1589764_download-svg-download-png-hand-wave-emoji.png" width="45" height="45" />
 </div>
@@ -44,5 +44,8 @@ npm start
 ```
 ## Application Security
 Helmet module is utilized for well-known web vulnerabilities to set up various HTTP headers to prevent attacks like Cross-Site-Scripting(XSS)
+
+## 🌱 Credit
+Hyperion Dev https://hyperiondev.com
 
 
