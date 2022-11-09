@@ -1,4 +1,5 @@
-  # iTunes Search App 
+  # iTunes Search App  
+  ### Project Link https://mighty-coast-92790.herokuapp.com/
  <div>
   <img src="https://www.seekpng.com/png/detail/158-1589764_download-svg-download-png-hand-wave-emoji.png" width="45" height="45" />
 </div>
@@ -12,7 +13,7 @@ The backend of the application handles the third-party API.
 ### Project installation
 **Backend**
 1. Open your terminal (Ctrl+`)
-2. Then change your directory to the backend folder 
+2. Then change your directory to the backend folder type cd backend or drag and drop backend folder on the terminal
 ```bash
 cd backend
 ```
@@ -21,5 +22,24 @@ cd backend
 ```bash
 npm install
 ```
-5. The type npm start to start your backend development server of the application
+5. Then type npm start to start your backend development server of the application, it will run on http://localhost:8080
+```bash
+npm start
+```
+
+**Frontend**
+1. Navigate to your terminal or (Ctrl+`)
+2. Then change your directory to the backend folder cd backend and then change it to the frontend folder cd frontend or drag and drop frontend folder on the terminal
+```bash
+cd backend/frontend
+```
+3. To check whether you are at the right directory type ls on your terminal and you will get list of your files in that directory
+4. Then type npm install on your terminal to install node_modules and all the dev dependencies for the frontend of the project
+```bash
+npm install
+```
+5. Then type npm start to start your frontend development of the application, it will open your browser on http://localhost:3080
+```bash
+npm start
+```
 
